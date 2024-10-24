@@ -1,0 +1,7 @@
+extracted_images/
+
+# Python
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
